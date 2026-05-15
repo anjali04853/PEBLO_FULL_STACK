@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Challenge brief (not part of the deliverable)
+Peblo_Full_Stack_Developer_Challenge.docx.pdf
