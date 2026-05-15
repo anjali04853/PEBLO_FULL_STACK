@@ -25,6 +25,26 @@ Create and organise notes, generate AI summaries & action items, search and filt
 
 ---
 
+## 📸 Screenshots
+
+| Landing page | |
+|---|---|
+| ![Landing — light](docs/screenshots/02-landing-light.png) | ![Landing — dark](docs/screenshots/01-landing-dark.png) |
+| *Marketing landing page with animated robot hero* | *Dark mode* |
+
+| Authentication | Notes workspace |
+|---|---|
+| ![Login](docs/screenshots/03-login.png) | ![All notes](docs/screenshots/04-notes-list.png) |
+| *Split-screen login with demo access* | *Notes list with search, tag filter & sorting* |
+
+**Note editor with AI insights**
+
+![Note editor with AI panel](docs/screenshots/05-note-editor-ai.png)
+
+*The editor — debounced auto-save on the left, AI-generated summary, action items and suggested title on the right.*
+
+---
+
 ## 🏗️ Architecture
 
 ```
