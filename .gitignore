@@ -6,3 +6,6 @@ dist/
 
 # Challenge brief (not part of the deliverable)
 Peblo_Full_Stack_Developer_Challenge.docx.pdf
+
+# Submission archive (generated, not source)
+*.zip
