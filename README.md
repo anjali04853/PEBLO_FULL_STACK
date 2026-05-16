@@ -10,6 +10,15 @@ Create and organise notes, generate AI summaries & action items, search and filt
 
 ---
 
+## 🎥 Demo Video
+
+A full walkthrough — authentication, notes workflow, AI summary generation,
+search & filtering, public sharing, and the insights dashboard:
+
+**▶ [Watch the demo](https://www.loom.com/share/e65f70f05aef4acda5d8de42ff7b5d40)**
+
+---
+
 ## ✨ Features
 
 | # | Capability | What it does |
